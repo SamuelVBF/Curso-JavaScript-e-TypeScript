@@ -10,4 +10,3 @@ Operadores de comparação
 != diferente (valor)
 !== diferente ertrito (valor e tipo)
 */
-
